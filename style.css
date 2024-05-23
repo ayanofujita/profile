@@ -94,3 +94,10 @@ ul {
     margin-top: 1rem;
   }
 }
+
+@media (max-width: 500px) {
+  #container1, #container2 {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+}
