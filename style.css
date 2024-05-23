@@ -27,12 +27,15 @@ h4 {
 }
 
 #basic-info {
-  padding-right: 4rem;
   margin-top: -7rem;
   display: block;
   width: 100%;
   font-size: larger;
-  line-height: .3em;
+  line-height: 1.2em;
+}
+
+#name, h4 {
+  margin: .6rem 0;
 }
 
 a {
